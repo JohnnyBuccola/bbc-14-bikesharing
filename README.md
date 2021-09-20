@@ -32,4 +32,4 @@ If we were to make two more visualizations, they would be:
 - A map of start/end stations (with marker radiuses representing the count) with a topological overlay to determine whether hills play an important factor in bike usage. 
 
 ## Link to Tableau
-[Tableau Public Link](https://public.tableau.com/views/Module14Challenge-NYCCitiBike/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link](https://public.tableau.com/shared/X42BRYHG7?:display_count=n&:origin=viz_share_link)
